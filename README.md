@@ -27,6 +27,8 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] The YAML syntax
 - [ ] Basic workflow syntax
 - [ ] Events that trigger workflow
+- [ ] Modify and commit: triggers build (push)
+  [ ] Modify and add [skip ci]
 - [ ] Jobs and steps
 - [ ] :mag: Demo: Creating a workflow
 - [ ] 🔨 Hands-on: [My first Action workflow](hol/01-My-first-workflow.md)
